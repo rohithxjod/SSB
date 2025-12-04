@@ -78,8 +78,7 @@ OUTPUT WAVEFORM
 <img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/e7b38b1a-daeb-48f5-992f-794f2b609044" />
 
 TABULATION
-![3 ac](https://github.com/user-attachments/assets/a1eac9dd-9bff-47ef-ad63-d13e5c580931)
-
+![3 ac](https://github.com/user-attachments/assets/8636fa07-291a-4c21-9e37-2e189dcb6471)
 
 
 
